@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class LabmanagementApplication {
 	public static void main(String[] args) {
-		// Initial launch point
 		SpringApplication.run(LabmanagementApplication.class, args);
 	}
 }
